@@ -4,16 +4,21 @@ web developer and photographer 💻📸
 
 
 	
+	 
+	
 
 
 <div align="center">
-	<img src="https://cdn.jsdelivr.net/gh/holic-x/holic-x/assets/github-contribution-grid-snake.svg" />
+<img src="https://paolasilvavargas.vercel.app/assets/Me.PNG" width="300" />
+	
+	
 </div>
 
 
 # 💫 About Me:
 💻 I’m a **Developer** <br><br>🤖 All of my projects are available at [https://paolasilvavargas.vercel.app/](https://paolasilvavargas.vercel.app/)<br><br>📫 How to reach me: paolasilvavargas3@gmail.com
 
+<img src="https://cdn.jsdelivr.net/gh/holic-x/holic-x/assets/github-contribution-grid-snake.svg" />
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paola-silva-vargas/) 
