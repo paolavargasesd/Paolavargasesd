@@ -1,6 +1,4 @@
-Hi,
-I'm Paola
-web developer and photographer 💻📸
+
 
 
 	
@@ -9,14 +7,16 @@ web developer and photographer 💻📸
 
 
 <div align="center">
-<img src="https://paolasilvavargas.vercel.app/assets/Me.PNG" width="300" />
+<img src="https://paolasilvavargas.vercel.app/assets/paola.PNG" width="1000" />
 	
 	
 </div>
 
 
 # 💫 About Me:
-💻 I’m a **Developer** <br><br>🤖 All of my projects are available at [https://paolasilvavargas.vercel.app/](https://paolasilvavargas.vercel.app/)<br><br>📫 How to reach me: paolasilvavargas3@gmail.com
+💻 Hi,
+I'm Paola
+web developer and photographer 💻📸 <br><br>🤖 All of my projects are available at [https://paolasilvavargas.vercel.app/](https://paolasilvavargas.vercel.app/)<br><br>📫 How to reach me: paolasilvavargas3@gmail.com
 
 <img src="https://cdn.jsdelivr.net/gh/holic-x/holic-x/assets/github-contribution-grid-snake.svg" />
 
