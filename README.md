@@ -1,14 +1,4 @@
 
-
-
-	
-	 
-	
-
-
-
-
-
 # 💫 About Me:
 💻 Hi,
 I'm Paola
