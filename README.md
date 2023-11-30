@@ -6,11 +6,7 @@
 	
 
 
-<div align="center">
-<img src="https://paolasilvargas.vercel.app//assets/paola.PNG" width="1000" />
-	
-	
-</div>
+
 
 
 # 💫 About Me:
